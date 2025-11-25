@@ -65,6 +65,8 @@ The notebook includes:
   * XGBoost model
   * Results
   * Performance plots
+ 
+*`weatherAUS` - Dataset used
 
 ---
 
